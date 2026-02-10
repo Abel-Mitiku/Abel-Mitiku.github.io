@@ -10,7 +10,7 @@
   </a>
   
   <div style="margin-top: 20px;">
-    <a href="https://linkedin.com/in/your-profile">
+    <a href="https://www.linkedin.com/in/abel-mitiku-4a6732360">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <!-- Upwork -->
@@ -19,16 +19,13 @@
 </a>
 
 <!-- Telegram -->
-<a href="https://t.me/@zeroflagged">
+<a href="https://t.me/Zeroflagged">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-    <a href="https://twitter.com/your-handle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:abelmitiku461@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://instagram.com/@__deadprince">
+    <a href="https://www.instagram.com/__deadprince?igsh=M2NiOTB5N2c5ZXpm">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
   </div>
