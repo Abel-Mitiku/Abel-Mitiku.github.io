@@ -76,8 +76,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abel-mitiku-4a6732360)
   [![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail)](mailto:abelmitiku461@gmail.com)
   
 </div>
