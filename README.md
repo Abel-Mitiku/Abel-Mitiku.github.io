@@ -67,32 +67,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Mitiku&layout=compact&theme=radical" />
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abel-Mitiku&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abel-Mitiku&theme=react-dark&hide_border=true" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Your Project 1](link)** | Brief description of your amazing project | React, Node.js, MongoDB |
-| **[Your Project 2](link)** | Another showcase project with cool features | Next.js, TypeScript, Tailwind |
-| **[Your Project 3](link)** | Full-stack application you built | PHP, MySQL, Express |
-| **[Your Project 4](link)** | Something with animations or GSAP | React, GSAP, TypeScript |
 
 ---
 
@@ -102,7 +77,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
-  [![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+  [![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail)](mailto:abelmitiku461@gmail.com)
   
 </div>
 
@@ -110,10 +85,10 @@
 
 ## 💡 Fun Facts
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 Learning **[Something New You're Learning]**
+- 🔭 I'm currently working on **Web development**
+- 🌱 Learning **Application development**
 - 💬 Ask me about **Web Development, React, Next.js, Node.js, or Full-Stack Development**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **abelmitiku461@gmail.com**
 - ⚡ Fun fact: **I can code in both high-level and low-level languages! From Assembly to React!**
 
 ---
