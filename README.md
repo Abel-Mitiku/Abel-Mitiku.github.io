@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Building+Amazing+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
   
-  <h1>👋 Hey there! I'm [Your Name]</h1>
+  <h1>👋 Hey there! I'm Abel Mitiku</h1>
   <p>💻 Full-Stack Developer | 🚀 Building modern web applications</p>
   
   <a href="https://github.com/your-username">
